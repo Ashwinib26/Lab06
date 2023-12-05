@@ -1,1 +1,1 @@
-This is Home view from controller.
+This is Home view from the controller.
